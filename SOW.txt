@@ -1,0 +1,39 @@
+i'd like to see the distribution of male and female, and their age groups
+i'd also like to see the distribution of race for each channel
+- for FY16 
+- for june16
+
+i'd like to see the changes in distribution 
+- between financial year FY15(30june14- 29june15) and FY16 
+- between june15 vs june16
+
+my initial thoughts were to just have histograms or boxplots, but if you have any suggestions to visualise the data, please let me know!
+
+the columns represent the different demographic groups
+a15-49 
+a4+ 
+mym4-14 
+myw4-14 
+mym15-24 
+myw15-24 
+mym25-34 
+myw25-34 
+mym35-49 
+myw35-49 
+mym50+ 
+myw50+ 
+**eg myw50+ is woman 50+ year old, mym50+ is male 50+yo
+
+mychinesefemale 43128 non-null float64
+mychinesemale 43128 non-null float64
+myindianotherfemale 43128 non-null float64
+myindianothermale 43128 non-null float64
+mymalayfemale
+i'd like to see the distribution of male and female, and their age groups
+i'd also like to see the distribution of race for each channel
+- for FY16 
+- for june16
+
+i'd like to see the changes in distribution 
+- between financial year FY15(30june14- 29june15) and FY16 
+- between june15 vs june16
